@@ -9,7 +9,7 @@
 </template>
 
 <script setup>
-
+let x = ref(null);
 </script>
 
 <style lang="scss">
